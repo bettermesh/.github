@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title">
+  <title id="title">BetterMesh</title>
+  <rect width="1024" height="1024" fill="#101E2D"/>
+  <g fill="#40DEC2">
+    <path d="M248 696V328L512 552L776 328V696" fill="none" stroke="#40DEC2" stroke-width="76" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="248" cy="696" r="54"/>
+    <circle cx="248" cy="328" r="54"/>
+    <circle cx="512" cy="552" r="54"/>
+    <circle cx="776" cy="328" r="54"/>
+    <circle cx="776" cy="696" r="54"/>
+  </g>
+</svg>
