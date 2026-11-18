@@ -1,5 +1,10 @@
 # BetterMesh
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bettermesh/.github/main/profile/assets/bettermesh-logo-dark.svg">
+  <img src="https://raw.githubusercontent.com/bettermesh/.github/main/profile/assets/bettermesh-logo.svg" alt="BetterMesh logo" width="440" height="102">
+</picture>
+
 One view of your Wi-Fi network, across the routers and access points you choose.
 
 BetterMesh is a planned phone and desktop app for managing several OpenWrt-based routers as one network. Wired backhaul comes first. Despite the name, the initial target is a multi-access-point network connected by Ethernet, not an 802.11s wireless mesh.
